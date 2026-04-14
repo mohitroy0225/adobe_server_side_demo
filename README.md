@@ -5,4 +5,3 @@ To request access: https://github.com/mohitroy0225/adobe_ss_demo
 
 fill form: [link](https://docs.google.com/forms/d/e/1FAIpQLSdahBsi-5w7os5iF9fehGmqn-8Xn5DRTqXIU1yg2Nq-g9nN2Q/viewform?usp=publish-editor)
 
-Include GitHub username: mohitroy0225
